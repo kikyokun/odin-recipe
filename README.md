@@ -1,1 +1,2 @@
 # odin-recipe
+This project is from The Odin Project. I will be creating a webpage about recipes. Once I complete it I will have learned how to setup a webpage using html and css. At the moment I do know a bit about setting up a webpage because I took a class on html from when I went to SNHU. It was sometime between 2016 and 2018 and it was about The Walking Dead. After I finish I want to be proficient in HTML.
